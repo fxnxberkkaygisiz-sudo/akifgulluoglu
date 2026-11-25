@@ -1,0 +1,202 @@
+{
+  "profile": {
+    "firstName": "Akif",
+    "lastName": "Güllüoğlu",
+    "fullName": "Akif Güllüoğlu",
+    "title": "Finans Profesyoneli",
+    "subtitle": "Finans ve Ekonomi",
+    "shortBio": "Marmara Üniversitesi Finans ve Ekonomi mezunu. İstanbul'da, altı yılı aşkın süredir finans sektöründe finansal analiz, raporlama ve operasyonel süreçler alanında çalışan finans profesyoneli.",
+    "birthPlace": "Reyhanlı, Hatay",
+    "location": "İstanbul, Türkiye",
+    "photos": {
+      "portrait": { "src": "/images/akif-portre.jpg", "w": 480, "h": 640, "alt": "Akif Güllüoğlu, lacivert ceketle portre" }
+    },
+    "knowsAbout": [
+      "Finansal analiz",
+      "Finansal raporlama",
+      "Veri analizi",
+      "Finansal operasyonlar",
+      "Finans ve ekonomi",
+      "Müşteri ilişkileri"
+    ]
+  },
+  "seo": {
+    "siteName": "Akif Güllüoğlu",
+    "titleDefault": "Akif Güllüoğlu | Finans Profesyoneli",
+    "titleTemplate": "%s | Akif Güllüoğlu",
+    "description": "Akif Güllüoğlu: Marmara Üniversitesi Finans ve Ekonomi mezunu, 6 yılı aşkın finans sektörü deneyimine sahip finans profesyoneli. Finansal analiz, raporlama ve operasyonel süreçler.",
+    "keywords": [
+      "Akif Güllüoğlu",
+      "finans profesyoneli",
+      "finansal analiz",
+      "finansal raporlama",
+      "finans ve ekonomi",
+      "Marmara Üniversitesi",
+      "İstanbul"
+    ],
+    "alternateNames": ["Akif Gulluoglu"],
+    "url": "https://akifgulluoglu.com.tr",
+    "locale": "tr_TR",
+    "twitterHandle": "",
+    "googleSiteVerification": ""
+  },
+  "navigation": [
+    { "label": "Hakkımda", "href": "/#hakkimda", "sheet": 2 },
+    { "label": "Kariyer", "href": "/#kariyer", "sheet": 3 },
+    { "label": "Eğitim", "href": "/#egitim", "sheet": 4 },
+    { "label": "Yetkinlikler", "href": "/#yetkinlikler", "sheet": 4 },
+    { "label": "Aracı Kurumlar", "href": "/#araci-kurumlar", "sheet": 6 },
+    { "label": "İletişim", "href": "/#iletisim", "sheet": 7 }
+  ],
+  "hero": {
+    "docLabel": "Mesleki profil",
+    "lead": "Finansal süreçleri analiz eden, raporlayan ve yöneten bir finans profesyoneli. Akademik altyapımı altı yılı aşkın sektör deneyimiyle birleştiriyorum.",
+    "factsHeading": "Özet",
+    "facts": [
+      { "label": "Doğum yeri", "value": "Reyhanlı, Hatay" },
+      { "label": "Konum", "value": "İstanbul, Türkiye" },
+      { "label": "Eğitim", "value": "Marmara Üniversitesi, Finans ve Ekonomi" },
+      { "label": "Sektör deneyimi", "value": "6+ yıl, finans sektörü", "total": true }
+    ]
+  },
+  "about": {
+    "heading": "Hakkımda",
+    "body": [
+      "Hatay'ın Reyhanlı ilçesinde doğdum. Eğitim hayatımı finans ve ekonomi alanında şekillendirdim ve profesyonel kariyerimi finans sektöründe sürdürüyorum.",
+      "Marmara Üniversitesi'nde Finans ve Ekonomi eğitimi aldım. Mezuniyetimin ardından finans sektöründe çalışma hayatına başladım ve 6 yılı aşkın süredir sektörde aktif olarak deneyim kazanıyorum.",
+      "Finansal süreçler, analiz, raporlama, operasyonel süreçler ve müşteri ilişkileri gibi farklı alanlarda edindiğim deneyimi akademik altyapımla birleştiriyorum.",
+      "Analitik düşünce yapım, çözüm odaklı yaklaşımım ve sürekli gelişime verdiğim önem doğrultusunda finans sektöründeki kariyerimi ileri taşımayı hedefliyorum."
+    ]
+  },
+  "career": {
+    "heading": "Kariyer",
+    "role": "Finans sektörü",
+    "lead": "Yaklaşık altı yıldır finans sektöründe aktif olarak görev alıyorum. Finansal süreçlerin işleyişi, analiz ve operasyonel süreçler konusunda profesyonel deneyime sahibim. Kariyerim boyunca şu alanlarda deneyim kazandım:",
+    "items": [
+      "Finansal süreçlerin takibi ve yönetimi",
+      "Finansal verilerin analiz edilmesi",
+      "Raporlama ve veri değerlendirme",
+      "Müşteri ilişkileri ve profesyonel iletişim",
+      "Finansal operasyonların yürütülmesi",
+      "Ekonomik ve sektörel gelişmelerin takip edilmesi",
+      "İş süreçlerinin etkin ve verimli şekilde yürütülmesi"
+    ],
+    "totalLabel": "Toplam sektör deneyimi",
+    "totalValue": "6+ yıl"
+  },
+  "education": {
+    "heading": "Eğitim",
+    "school": "Marmara Üniversitesi",
+    "department": "Finans ve Ekonomi",
+    "place": "İstanbul, Türkiye",
+    "body": [
+      "Finans ve ekonomi alanındaki akademik eğitimim sayesinde finansal piyasalar, ekonomi, yatırım, finansal analiz ve işletme süreçleri hakkında güçlü bir teorik ve analitik altyapı edindim.",
+      "Akademik bilgilerimi profesyonel çalışma hayatındaki deneyimlerimle birleştirerek finans alanındaki uzmanlığımı geliştirmeye devam ediyorum."
+    ]
+  },
+  "skills": {
+    "heading": "Profesyonel yetkinlikler",
+    "items": [
+      "Finansal Analiz",
+      "Finans ve Ekonomi",
+      "Finansal Raporlama",
+      "Veri Analizi",
+      "Finansal Süreç Yönetimi",
+      "Müşteri İlişkileri",
+      "Finansal Operasyonlar",
+      "Ekonomik Gelişmelerin Takibi",
+      "Analitik Düşünme",
+      "Problem Çözme",
+      "İş Süreçleri Yönetimi",
+      "Ekip Çalışması",
+      "Profesyonel İletişim"
+    ]
+  },
+  "approach": {
+    "heading": "Profesyonel yaklaşımım",
+    "body": [
+      "Finans sektöründe başarılı olmanın yalnızca teknik bilgiye değil; analitik düşünme, doğru karar verme, disiplinli çalışma ve sürekli gelişime bağlı olduğuna inanıyorum.",
+      "Finansal verileri doğru yorumlamak, süreçleri etkin şekilde yönetmek ve karşılaşılan problemlere çözüm odaklı yaklaşmak profesyonel çalışma anlayışımın temelini oluşturuyor."
+    ]
+  },
+  "goal": {
+    "heading": "Kariyer hedefi",
+    "body": [
+      "Finans sektöründeki 6 yılı aşkın deneyimimi daha ileri bir seviyeye taşıyarak finansal analiz, yatırım, portföy yönetimi, finansal planlama ve stratejik finans alanlarında uzmanlığımı geliştirmeyi hedefliyorum.",
+      "Uzun vadede finans ve ekonomi alanındaki akademik birikimimi profesyonel deneyimlerimle birleştirerek, çalıştığım kurumlara değer katan ve finansal karar alma süreçlerinde aktif rol üstlenen bir finans profesyoneli olmayı amaçlıyorum."
+    ]
+  },
+  "personal": {
+    "heading": "Kişisel profil",
+    "traits": ["Analitik", "Disiplinli", "Gelişime açık", "Araştırmacı", "Çözüm odaklı", "Finans odaklı"],
+    "body": [
+      "Finans ve ekonomiye olan ilgimi yalnızca mesleki bir alan olarak değil, sürekli öğrenme ve kendimi geliştirme fırsatı olarak görüyorum.",
+      "Yeni bilgiler edinmeye, farklı bakış açılarını değerlendirmeye ve karşılaştığım problemlere çözüm odaklı yaklaşmaya önem veriyorum."
+    ]
+  },
+  "brokers": {
+    "heading": "Çalıştığım aracı kurumlar",
+    "description": "Borsa İstanbul'da hesap açmak isteyenler, aşağıdaki aracı kurumlara referansımla kayıt olarak avantajlı koşullardan yararlanabilir.",
+    "note": "Bağlantılar ilgili aracı kurumların resmî sitelerine yönlendirir. Hesap açılışı, sözleşme koşulları ve komisyon oranları tamamen ilgili kurumun sorumluluğundadır.",
+    "items": [
+      {
+        "name": "Ulu Menkul",
+        "logo": "/images/ulu-menkul.png",
+        "description": "Borsa İstanbul işlemleri için çalıştığım, SPK tarafından yetkilendirilmiş aracı kurum. Mevcut hesabınız varsa Online Şube üzerinden giriş yapabilirsiniz.",
+        "registerLabel": "Hesap Aç",
+        "registerHref": "https://hesapac.ulumenkul.com.tr/",
+        "secondaryLabel": "Online Şube",
+        "secondaryHref": "https://onlinesube.ulumenkul.com.tr/"
+      },
+      {
+        "name": "Işıklar Menkul",
+        "logo": "/images/isiklar-menkul.png",
+        "description": "Borsa İstanbul işlemleri için çalıştığım, SPK tarafından yetkilendirilmiş aracı kurum. Mevcut hesabınız varsa Online Şube üzerinden giriş yapabilirsiniz.",
+        "registerLabel": "Hesap Aç",
+        "registerHref": "https://hesapac.isiklarmenkul.com.tr",
+        "secondaryLabel": "Online Şube",
+        "secondaryHref": "https://esube.isiklarmenkul.com.tr/user/login/"
+      }
+    ]
+  },
+  "contact": {
+    "heading": "İletişim",
+    "body": "Profesyonel iş birlikleri, kariyer fırsatları ve finans alanındaki projeler için iletişime geçebilirsiniz.",
+    "email": "gulluogluakif@gmail.com",
+    "phone": "+90 548 827 83 02",
+    "whatsapp": "https://wa.me/905488278302",
+    "telegram": ""
+  },
+  "socials": [],
+  "legal": {
+    "title": "Yasal Uyarı",
+    "intro": "Bu sitedeki içerik genel bilgilendirme amaçlıdır.",
+    "disclaimer": "Bu sitede yer alan içerikler yatırım danışmanlığı kapsamında değildir ve yatırım tavsiyesi niteliği taşımaz. Yatırım danışmanlığı hizmeti, yalnızca SPK tarafından yetkilendirilmiş kuruluşlarca, kişilerin risk ve getiri tercihleri dikkate alınarak sunulabilir.",
+    "copyright": "© Akif Güllüoğlu. Tüm hakları saklıdır.",
+    "sections": [
+      {
+        "title": "Sitenin amacı",
+        "body": "Bu site, Akif Güllüoğlu'nun mesleki profilini ve iletişim bilgilerini tanıtmak amacıyla hazırlanmıştır. Sitede finansal ürün, hizmet ya da getiri vaadi sunulmaz."
+      },
+      {
+        "title": "Aracı kurum yönlendirmeleri",
+        "body": "Sitede yer alan aracı kurum bağlantıları, ilgili kurumların resmî hesap açılış sayfalarına yönlendirme amaçlıdır. Hesap açılış süreci, sözleşme koşulları, komisyon ve masraflar tamamen ilgili aracı kurumun sorumluluğundadır."
+      },
+      {
+        "title": "Üçüncü taraf bağlantılar",
+        "body": "Sitede yer alabilecek dış bağlantılar ilgili kurumların kendi sorumluluğundadır; içeriklerinden ve işleyişinden site sahibi sorumlu tutulamaz."
+      }
+    ]
+  },
+  "pages": {
+    "yasal-uyari": {
+      "h1": "Yasal Uyarı",
+      "title": "Yasal Uyarı",
+      "description": "Akif Güllüoğlu sitesindeki içeriklerin yatırım tavsiyesi olmadığına ilişkin yasal uyarı."
+    }
+  },
+  "sitemap": [
+    { "path": "/", "changeFrequency": "monthly", "priority": 1 },
+    { "path": "/yasal-uyari", "changeFrequency": "yearly", "priority": 0.3 }
+  ]
+}
